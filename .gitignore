@@ -1,0 +1,5 @@
+# 
+basis_net/train_dat/
+basis_net/predict_dat/
+DCUnet.pytorch-master/
+demucs-main/
